@@ -26,7 +26,7 @@ Prepare your dataset:
 
 ## Screenshots
 
-![App Screenshot](mrs.jpg)
+![mrs](https://user-images.githubusercontent.com/68707728/206903330-8ef32e17-e774-4c6c-bce2-518df8c40ce6.jpg)
 
 
 
