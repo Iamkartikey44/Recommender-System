@@ -26,7 +26,7 @@ Prepare your dataset:
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/U0MPOt1)
+![App Screenshot](mrs.jpg)
 
 
 
