@@ -26,7 +26,7 @@ Prepare your dataset:
 
 ## Screenshots
 
-![App Screenshot](mrs.jpg)
+![App Screenshot](https://github.com/Iamkartikey44/Recommender-System/blob/main/mrs.jpg)
 
 
 
